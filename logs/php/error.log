@@ -1,0 +1,92 @@
+[22-Apr-2025 20:29:37 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[22-Apr-2025 20:30:13 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[13-May-2025 01:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:36:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:36:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:36:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:36:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:39:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:40:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:43:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:44:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:45:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:45:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:45:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:45:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:45:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 01:47:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-May-2025 02:01:15 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[13-May-2025 02:13:59 UTC] PHP Warning:  Undefined array key 1 in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 84
+[13-May-2025 02:13:59 UTC] PHP Warning:  Undefined array key 2 in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 85
+[13-May-2025 02:14:11 UTC] PHP Fatal error:  Uncaught ValueError: imagecreatetruecolor(): Argument #1 ($width) must be greater than 0 in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\media.php:4125
+Stack trace:
+#0 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\media.php(4125): imagecreatetruecolor(-1920, 1080)
+#1 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\class-wp-image-editor-gd.php(232): wp_imagecreatetruecolor(-1920, 1080)
+#2 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\class-wp-image-editor-gd.php(188): WP_Image_Editor_GD->_resize('-1920', '1080', true)
+#3 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php(618): WP_Image_Editor_GD->resize('-1920', '1080', true)
+#4 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php(54): BFI_Thumb_1_3::thumb('http://fernanda...', Array, true)
+#5 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php(795): bfi_thumb('http://fernanda...', Array)
+#6 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\class-wp-hook.php(324): bfi_image_downsize(false, 69, Array)
+#7 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(false, Array)
+#8 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\media.php(212): apply_filters('image_downsize', false, 69, Array)
+#9 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\media.php(975): image_downsize(69, Array)
+#10 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\controls\groups\image-size.php(255): wp_get_attachment_image_src(69, Array)
+#11 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\controls\groups\image-size.php(110): Elementor\Group_Control_Image_Size::get_attachment_image_src(69, 'image', Array)
+#12 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\controls\groups\image-size.php(162): Elementor\Group_Control_Image_Size::get_attachment_image_html(Array, 'image', 'image')
+#13 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\widgets\image.php(752): Elementor\Group_Control_Image_Size::print_attachment_image_html(Array)
+#14 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2374): Elementor\Widget_Image->render()
+#15 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(636): Elementor\Controls_Stack->render_by_mode()
+#16 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\core\base\document.php(387): Elementor\Widget_Base->render_content()
+#17 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\includes\managers\widgets.php(474): Elementor\Core\Base\Document->render_element(Array)
+#18 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#19 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#20 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#21 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#22 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#23 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#24 {main}
+  thrown in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\media.php on line 4125
+[14-May-2025 01:09:27 UTC] WordPress database error Table 'local.wp_better_payment' doesn't exist for query ALTER TABLE wp_better_payment ADD refund_info longtext made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, better_payment_migrator, Better_Payment\Lite\Classes\Migrator::migrator, Better_Payment\Lite\Classes\Migrator::update_tables
+[19-May-2025 23:58:46 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Plugin" not found in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:449
+Stack trace:
+#0 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\class-wp-hook.php(324): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\general-template.php(3208): do_action('wp_footer')
+#4 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\themes\hello-elementor\footer.php(24): wp_footer()
+#5 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\template.php(810): require_once('C:\\Users\\brend\\...')
+#6 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\template.php(745): load_template('C:\\Users\\brend\\...', true, Array)
+#7 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\themes\hello-elementor\index.php(36): get_footer()
+#9 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\brend\\...')
+#10 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-blog-header.php(19): require_once('C:\\Users\\brend\\...')
+#11 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\index.php(17): require('C:\\Users\\brend\\...')
+#12 {main}
+  thrown in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 449
+[20-May-2025 00:06:55 UTC] PHP Warning:  rename(C:\Windows\TEMP/elementor.3.29.0-PvlYPK.tmp,C:\Windows\TEMP/elementor.3.29.0.zip): Acesso negado (code: 5) in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-admin\includes\file.php on line 1234
+[20-May-2025 00:06:55 UTC] PHP Warning:  unlink(C:\Windows\TEMP/elementor.3.29.0.zip): Resource temporarily unavailable in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-admin\includes\file.php on line 1239
+[20-May-2025 01:51:24 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[20-May-2025 01:55:30 UTC] PHP Warning:  Undefined array key "add_ons" in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\home\transformations\filter-plugins.php on line 21
+[20-May-2025 01:55:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\home\transformations\filter-plugins.php on line 21
+[20-May-2025 01:55:30 UTC] PHP Fatal error:  Uncaught TypeError: Elementor\Modules\Home\Transformations\Filter_Plugins::get_add_ons_installation_status(): Argument #1 ($add_ons) must be of type array, null given, called in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\home\transformations\filter-plugins.php on line 21 and defined in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\home\transformations\filter-plugins.php:30
+Stack trace:
+#0 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\home\transformations\filter-plugins.php(21): Elementor\Modules\Home\Transformations\Filter_Plugins->get_add_ons_installation_status(NULL)
+#1 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\home\classes\transformations-manager.php(57): Elementor\Modules\Home\Transformations\Filter_Plugins->transform(Array)
+#2 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\home\api.php(25): Elementor\Modules\Home\Classes\Transformations_Manager->run_transformations()
+#3 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\home\api.php(19): Elementor\Modules\Home\API->transform_home_screen_data(Array)
+#4 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\home\module.php(102): Elementor\Modules\Home\API->get_home_screen_items()
+#5 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\home\module.php(64): Elementor\Modules\Home\Module->get_app_js_config()
+#6 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Home\Module->enqueue_home_screen_scripts('')
+#7 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#8 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-admin\admin-header.php(144): do_action('admin_print_scr...')
+#10 C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-admin\admin.php(240): require_once('C:\\Users\\brend\\...')
+#11 {main}
+  thrown in C:\Users\brend\OneDrive\dev\PEX\studio-depilao-fernanda-rodrigues\app\public\wp-content\plugins\elementor\modules\home\transformations\filter-plugins.php on line 30
